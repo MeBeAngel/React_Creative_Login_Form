@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Righteous&display=swap');
+
+
+* {
+  font-family: 'Luckiest Guy', cursive;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100vh;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #84c1ff;
+  background-image: url("https://www.transparenttextures.com/patterns/concrete-wall.png");
+}
+
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100%;
+}
